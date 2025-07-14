@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LordOfCereal
-- 👀 I’m interested in how computers/software/operating systems work
+- 👀 I’m interested in stuff
 - 🌱 I’m currently learning Java/C++
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 You can email me at cereallordship87@gmail.com
